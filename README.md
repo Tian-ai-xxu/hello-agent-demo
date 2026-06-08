@@ -330,7 +330,7 @@ curl -X POST http://localhost:8000/api/knowledge/add \
 
 CC BY-NC-SA 4.0
 
-## 🙏 致谢
+## 🙏 参考
 
 - [HelloAgents](https://github.com/datawhalechina/Hello-Agents) - 智能体教程
 - [HelloAgents框架](https://github.com/jjyaoao/HelloAgents) - 智能体框架
